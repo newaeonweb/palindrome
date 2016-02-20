@@ -2,7 +2,7 @@
   "name": "Palindrome",
   "version": "0.0.1",
   "description": "front-end test for Shaw and Partners",
-  "main": "phonetic.js",
+  "main": "Polindrome.js",
   "scripts": {
     "test": "test.js"
   },

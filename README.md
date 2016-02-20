@@ -44,4 +44,4 @@ Example:
 
 The following image, illustrate the result on Terminal window:
 
-![Palindrome Terminal](Palindrome.png)
+![Palindrome Terminal](http:www.newaeonweb.com.br/assets/images/Palindrome.png)
