@@ -4,9 +4,9 @@ Test Shaw and Partners
 */
 
 /*
-The following example shows how to implement a Node.js modules to Check is a string is Polidrome.
+The following example shows how to implement a Node.js modules to Check if a string is Palidrome.
 The module used is: is-palindrome (Node implementation).
-You can find more informations on how to use the software on README.txt.
+You can find more informations on how to use the software on README.md.
 */
 
 function Palindrome (str) {
