@@ -45,3 +45,18 @@ Example:
 The following image, illustrate the result on Terminal window:
 
 ![Palindrome Terminal](http:www.newaeonweb.com.br/assets/images/Palindrome.png)
+
+# Examples using pure javascript implementation.
+> Because sometimes we need to reinventing the wheel.
+
+* CheckPalindromeIteration(str);
+* CheckPalindromeRecursion(str);
+
+To use this functions, you must follow the steps: 1, 2, 3.
+Instead of typing `isPalindrome("aba")` on your Terminal, replace for:
+
+	CheckPalindromeIteration("aba")
+
+	CheckPalindromeRecursion("aba")
+
+Happy testing!
