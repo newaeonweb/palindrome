@@ -7,6 +7,12 @@ If you still do not have Node.js follow the following statement:
 
 Go to: https://nodejs.org/en/download/, download and install the compatible version with your system.
 
+Clone the project;
+
+	git clone https://github.com/newaeonweb/palindrome.git
+
+Go to project folder
+
 2- Install Dependencies:
 
 Open your shell and type:
@@ -24,7 +30,7 @@ Now let's load the file in memory:
 
 4- The search is made through the text you want to compare if is Palindrome or not using the Palindrome function, as shown below.
 
-	Polindrome("aba")
+	Palindrome("aba")
 
 > the function's Return `true`
 
