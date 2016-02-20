@@ -44,7 +44,7 @@ Example:
 
 The following image, illustrate the result on Terminal window:
 
-![Palindrome Terminal](http:www.newaeonweb.com.br/assets/images/Palindrome.png)
+![Palindrome Terminal](http://www.newaeonweb.com.br/assets/images/Palindrome.png)
 
 # Examples using pure javascript implementation.
 > Because sometimes we need to reinventing the wheel.
