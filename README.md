@@ -10,6 +10,7 @@ Go to: https://nodejs.org/en/download/, download and install the compatible vers
 2- Install Dependencies:
 
 Open your shell and type:
+
 	npm install
 
 
