@@ -7,7 +7,13 @@ If you still do not have Node.js follow the following statement:
 
 Go to: https://nodejs.org/en/download/, download and install the compatible version with your system.
 
-2- To run the program you should open your shell on `Palindrome folder ` and type:
+2- Install Dependencies:
+
+Open your shell and type:
+	npm install
+
+
+3- To run the program you should open your shell on `Palindrome folder ` and type:
 
 	node
 
@@ -15,13 +21,13 @@ Now let's load the file in memory:
 
 	.load Palindrome.js
 
-3- The search is made through the text you want to compare if is Palindrome or not using the Palindrome function, as shown below.
+4- The search is made through the text you want to compare if is Palindrome or not using the Palindrome function, as shown below.
 
 	Polindrome("aba")
 
 > the function's Return `true`
 
-4- For a better implementation we can add the messages on our Terminal/Shell:
+5- For a better implementation we can add the messages on our Terminal/Shell:
 
 * is a palindrome
 * is not a palindrome
